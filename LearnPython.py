@@ -47,9 +47,9 @@ print(dict1['tên'])
 letter = ['a','b','c']
 upletter = [ x.upper() for x in letter]
 print(upletter)
-'''
+
 # hàm vô danh
 tich= lambda s : s*2 
 print(tich(4))
-
+'''
 
